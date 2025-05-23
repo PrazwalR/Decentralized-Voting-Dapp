@@ -1,4 +1,4 @@
-# 🗳️ Decentralized Voting System Using NFTs
+# 🗳️ Decentralized Voting System Using NFTs(in Progress)
 
 A revolutionary approach to secure, transparent, and tamper-proof elections leveraging blockchain technology and Non-Fungible Tokens (NFTs). This decentralized voting system ensures that only verified participants can vote, and every vote is recorded immutably on-chain, guaranteeing integrity without reliance on centralized authorities.
 
