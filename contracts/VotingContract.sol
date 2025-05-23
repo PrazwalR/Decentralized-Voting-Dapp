@@ -191,4 +191,5 @@
      function getVoterList () public view returns (address[] memory){
         return votersAddress;
      }
+
  }
